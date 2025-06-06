@@ -58,7 +58,7 @@ Jupyter Notebook
 ```
 Car_Data_Analysis_Project/
 ├── car_data.csv               # Dataset
-├── Car_Data_Analysis.ipynb    # Jupyter notebook with analysis
+├── assignment1answers.ipynb    # Jupyter notebook with analysis
 └── README.md
 ```
 
@@ -90,7 +90,7 @@ pip install seaborn
 
 3.Launch Jupyter Notebook:
 ```
-jupyter notebook Car_Data_Analysis.ipynb
+jupyter notebook assignment1answers.ipynb
 ```
 
 📌 Key Insights
