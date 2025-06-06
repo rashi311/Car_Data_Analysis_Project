@@ -1,8 +1,11 @@
 
 🚗 Car Data Analysis Project
-This project performs an in-depth analysis of car data to uncover insights into pricing, features, brand comparison, and performance metrics. The dataset includes various attributes such as brand, model, year, fuel type, transmission, engine size, mileage, and price.
+- This project performs an in-depth analysis of car data to uncover insights into pricing, features, brand comparison, and performance metrics. The dataset includes various attributes such as brand, model, year, fuel type, transmission, engine size, mileage, and price.
+
+
 
 📊 Features of the Project
+
 - Data cleaning and preprocessing
 
 - Exploratory Data Analysis (EDA)
@@ -14,6 +17,7 @@ This project performs an in-depth analysis of car data to uncover insights into 
 - Visualization using Matplotlib and Seaborn
 
 - Insights & conclusion on price-affecting features
+ 
 
 🛠️ Technologies Used
 - Python
