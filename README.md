@@ -1,38 +1,77 @@
 
 🚗 Car Data Analysis Project
+
 - This project performs an in-depth analysis of car data to uncover insights into pricing, features, brand comparison, and performance metrics. The dataset includes various attributes such as brand, model, year, fuel type, transmission, engine size, mileage, and price.
 
 
 
 📊 Features of the Project
 
-- Data cleaning and preprocessing
+  - Data cleaning and preprocessing
 
-- Exploratory Data Analysis (EDA)
+  - Exploratory Data Analysis (EDA)
 
-- Correlation analysis between features
+  - Correlation analysis between features
 
-- Brand-wise price comparison
+  - Brand-wise price comparison
 
-- Visualization using Matplotlib and Seaborn
+  - Visualization using Matplotlib and Seaborn
 
-- Insights & conclusion on price-affecting features
+  - Insights & conclusion on price-affecting features
+
+  📊 Dataset Features
+     The dataset includes the following columns:
+
+   - mpg: Miles per gallon (fuel efficiency)
+
+   - cylinders: Number of engine cylinders
+
+   - displacement: Engine size (in cubic inches)
+
+   - horsepower: Engine horsepower
+
+   - weight: Vehicle weight (in pounds)
+
+   - acceleration: Time to accelerate from 0 to 60 mph
+
+   - model_year: Year of the model
+
+   - origin: Region of origin (1 = USA, 2 = Europe, 3 = Japan)
+
+   - name: Car name (make and model) 
  
 
 🛠️ Technologies Used
-- Python
+  - Python
 
-- Pandas
+ - Pandas
 
-- NumPy
+ - NumPy
 
-- Matplotlib
+ - Matplotlib
 
-- Seaborn
+ - Seaborn
 
 Jupyter Notebook
 
 📁 Folder Structure
+```
+Car_Data_Analysis_Project/
+├── car_data.csv               # Dataset
+├── Car_Data_Analysis.ipynb    # Jupyter notebook with analysis
+└── README.md
+```
+
+🔍 Project Highlights
+ - Cleaned missing data (especially in the horsepower column)
+
+ - Performed exploratory data analysis (EDA)
+
+ - Analyzed trends in fuel efficiency over time
+
+ - Visualized relationships between MPG and features like horsepower, weight, and displacement
+
+ - Compared average MPG by country of origin and cylinder count
 
 📌 How to Run the Project
 1. Clone the repository:
